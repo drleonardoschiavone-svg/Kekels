@@ -1,0 +1,20 @@
+<head>
+<meta charset="UTF-8">
+<title>Carla Dash – Demon Final</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Carla Dash">
+
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+
+<!-- SPLASH SCREENS iOS -->
+<link rel="apple-touch-startup-image" href="splash-1170x2532.png"
+ media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)">
+<link rel="apple-touch-startup-image" href="splash-1290x2796.png"
+ media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3)">
+<link rel="apple-touch-startup-image" href="splash-750x1334.png"
+ media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)">
+</head>
